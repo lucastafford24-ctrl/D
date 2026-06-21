@@ -1,0 +1,6 @@
+{
+  "name": "Roblox Game Idea Generator",
+  "description": "An AI-powered generator that creates highly engaging, fun, and random concepts for your next big Roblox hit! Get a catchy title, genre, pitching, gameplay mechanics, and gamepass flavor text.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
